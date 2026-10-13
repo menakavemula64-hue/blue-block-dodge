@@ -49,4 +49,3 @@ This project uses Pygame's documented event, display, drawing, time, keyboard,
 rectangle, and font APIs:
 
 - [Pygame documentation](https://www.pygame.org/docs/)
-- [Pygame website](https://www.pygame.org/)
